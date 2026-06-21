@@ -1,7 +1,7 @@
 {
   "name": "Solitaire Nova",
   "short_name": "Solitaire Nova",
-  "description": "Jeu de Solitaire futuriste V3.1 Pro Mobile.",
+  "description": "Jeu de Solitaire futuriste V3.2.1 Pro Mobile.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
